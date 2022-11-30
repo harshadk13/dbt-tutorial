@@ -1,0 +1,9 @@
+default:
+    target: dev
+    outputs:
+      dev:
+        type: databricks
+        schema: default
+        host: adb-4573256752004775.15.azuredatabricks.net
+        http_path: sql/protocolv1/o/4573256752004775/1118-062311-imup0ldq
+        token: dapi8e9ecced6c6b6548dba0ebd8894c8839-2
